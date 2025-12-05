@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="currencies_array">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>PEN</item>
+        <item>GBP</item>
+        <item>JPY</item>
+    </string-array>
+</resources>
